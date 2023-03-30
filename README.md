@@ -13,4 +13,4 @@ In subcellular biological research, fluorescence staining is a key technique to 
 ## 🔥 Updates
 - 2023.03: The [RepMode website](https://correr-zhou.github.io/RepMode/) is now online!
 - 2023.03: This paper is selected as a CVPR Highlight (10% of accepted papers, 2.5% of submissions)!
-- 2023.02: We are delight to announce that this paper is accepted by CVPR 2023! The code is being cleaned and will be released in March, 2023.
+- 2023.02: We are delight to announce that this paper is accepted by CVPR 2023! The code is being cleaned and will be released in ~~March~~ April, 2023.
