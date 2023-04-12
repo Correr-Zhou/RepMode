@@ -1,0 +1,721 @@
+path_czi,channel_signal,channel_target,structureProteinName,colony_position
+data/alpha_tubulin/3500000757_100X_20170327_2-Scene-1-P19-D04.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000757_100X_20170327_2-Scene-2-P22-D04.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000726_100X_20170320_1-Scene-3-P3-E06.czi,3,2,Alpha tubulin,
+data/alpha_tubulin/3500000766_100X_20170328_D04_P09.czi,3,2,Alpha tubulin,
+data/alpha_tubulin/3500000781_100X_20170331_c-Scene-09-P25-D08.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000726_100X_20170320_4-Scene-3-P21-E08.czi,3,2,Alpha tubulin,
+data/alpha_tubulin/3500000684_100X_20170307_E06_P21_P22-Scene-1-P21.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000672_100X_20170306_D06_P25_P26-Scene-1-P25-D06.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000666_100X_20170303_E04_P03.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000636_100X_20170227_E06_P14.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000738_100X_20170321_1-Scene-02-P2-D04.czi,3,2,Alpha tubulin,
+data/alpha_tubulin/3500000684_100X_20170307_E04_P13_P14-Scene-1-P13-E05.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000636_100X_20170227_F04_P26.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000722_100X_20170317_E04_P19.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000645_10X_20170301_E06_P36.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000729_100X_20170320_2-Scene-07-P39-F05.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000636_100X_20170227_E05_P11.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000523_100X_20170314_D04_P06.czi,3,2,Alpha tubulin,
+data/alpha_tubulin/3500000738_100X_20170321_4-Scene-4-P32-E04.czi,3,2,Alpha tubulin,
+data/alpha_tubulin/3500000781_100X_20170331_c-Scene-11-P31-D08.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000726_100X_20170320_2-Scene-5-P5-E06.czi,3,2,Alpha tubulin,
+data/alpha_tubulin/3500000719_100X_20170317_F07_P01.czi,3,2,Alpha tubulin,
+data/alpha_tubulin/3500000666_100X_20170303_E08_P37.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000738_100X_20170321_4-Scene-6-P34-E04.czi,3,2,Alpha tubulin,
+data/alpha_tubulin/3500000781_100X_20170331_c-Scene-12-P34-D08.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000726_100X_20170320_3-Scene-08-P16-E07.czi,3,2,Alpha tubulin,
+data/alpha_tubulin/3500000635_100X_20170227_E08_P11.czi,3,2,Alpha tubulin,
+data/alpha_tubulin/3500000765_100X_20170328_1-Scene-08-P22-D04.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000666_100X_20170303_E05_P14.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000635_100X_20170227_F07_P21.czi,3,2,Alpha tubulin,
+data/alpha_tubulin/3500000666_100X_20170303_E04_P07.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000636_100X_20170227_F05_P23.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000781_100X_20170331_c-Scene-10-P28-D08.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000766_100X_20170328_D05_P14.czi,3,2,Alpha tubulin,
+data/alpha_tubulin/3500000527_100X_20170314_D04_P03.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000666_100X_20170303_E07_P32.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000527_100X_20170314_D04_P10.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000741_100X_20170324_D04_P23.czi,3,2,Alpha tubulin,
+data/alpha_tubulin/3500000645_10X_20170301_E07_P12.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000527_100X_20170314_D07_P27.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000654_100X_20170301_F08_P13.czi,3,2,Alpha tubulin,
+data/alpha_tubulin/3500000635_100X_20170227_E08_P18.czi,3,2,Alpha tubulin,
+data/alpha_tubulin/3500000636_100X_20170227_E05_P06.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000741_100X_20170324_D04_P06.czi,3,2,Alpha tubulin,
+data/alpha_tubulin/3500000635_100X_20170227_E08_P13.czi,3,2,Alpha tubulin,
+data/alpha_tubulin/3500000765_100X_20170328_1-Scene-03-P7-D04.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000738_100X_20170321_2-Scene-04-P14-D07.czi,3,2,Alpha tubulin,
+data/alpha_tubulin/3500000645_10X_20170301_E07_P24.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000645_10X_20170301_E07_P02.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000729_100X_20170320_3-Scene-5-P47-F07.czi,6,5,Alpha tubulin,
+data/alpha_tubulin/3500000672_100X_20170306_D07_P45_P46-Scene-1-P46-D07.czi,6,5,Alpha tubulin,r
+data/alpha_tubulin/3500000757_100X_20170327_3-Scene-07-P20-D04.czi,6,5,Alpha tubulin,r
+data/alpha_tubulin/3500000765_100X_20170328_2-Scene-03-P8-D04.czi,6,5,Alpha tubulin,r
+data/alpha_tubulin/3500000757_100X_20170327_6-Scene-03-P35-D06.czi,6,5,Alpha tubulin,r
+data/alpha_tubulin/3500000765_100X_20170328_5-Scene-06-P44-D05.czi,6,5,Alpha tubulin,r
+data/alpha_tubulin/3500000757_100X_20170327_6-Scene-05-P41-D07.czi,6,5,Alpha tubulin,r
+data/alpha_tubulin/3500000672_100X_20170306_D07_P41_P42-Scene-2-P42-D07.czi,6,5,Alpha tubulin,r
+data/alpha_tubulin/3500000693_100X_20170310_D07_P46.czi,6,5,Alpha tubulin,r
+data/alpha_tubulin/3500000672_100X_20170306_D08_P49_P50-Scene-1-P50-D08.czi,6,5,Alpha tubulin,r
+data/alpha_tubulin/3500000781_100X_20170331_r2-Scene-11-P38-D08.czi,6,5,Alpha tubulin,r
+data/alpha_tubulin/3500000765_100X_20170328_2-Scene-02-P5-D04.czi,6,5,Alpha tubulin,r
+data/alpha_tubulin/3500000781_100X_20170331_r2-Scene-09-P32-D08.czi,6,5,Alpha tubulin,r
+data/alpha_tubulin/3500000684_100X_20170307_E08_P48.czi,6,5,Alpha tubulin,r
+data/alpha_tubulin/3500000757_100X_20170327_3-Scene-02-P5-D04.czi,6,5,Alpha tubulin,r
+data/alpha_tubulin/3500000781_100X_20170331_r2-Scene-06-P23-D08.czi,6,5,Alpha tubulin,r
+data/alpha_tubulin/3500000757_100X_20170327_4-Scene-07-P48-D07.czi,6,5,Alpha tubulin,e
+data/alpha_tubulin/3500000781_100X_20170331_e-Scene-09-P27-D08.czi,6,5,Alpha tubulin,e
+data/alpha_tubulin/3500000757_100X_20170327_4-Scene-04-P39-D07.czi,6,5,Alpha tubulin,e
+data/alpha_tubulin/3500000757_100X_20170327_7-Scene-03-P58-D08.czi,6,5,Alpha tubulin,e
+data/alpha_tubulin/3500000757_100X_20170327_7-Scene-01-P55-D08.czi,6,5,Alpha tubulin,e
+data/alpha_tubulin/3500000757_100X_20170327_7-Scene-04-P59-D08.czi,6,5,Alpha tubulin,e
+data/alpha_tubulin/3500000765_100X_20170328_6-Scene-01-P30-D05.czi,6,5,Alpha tubulin,e
+data/alpha_tubulin/3500000765_100X_20170328_3-Scene-02-P6-D04.czi,6,5,Alpha tubulin,e
+data/alpha_tubulin/3500000757_100X_20170327_4-Scene-02-P33-D06.czi,6,5,Alpha tubulin,e
+data/alpha_tubulin/3500000757_100X_20170327_7-Scene-08-P65-D08.czi,6,5,Alpha tubulin,e
+data/alpha_tubulin/3500000765_100X_20170328_3-Scene-01-P3-D04.czi,6,5,Alpha tubulin,e
+data/alpha_tubulin/3500000757_100X_20170327_4-Scene-01-P30-D06.czi,6,5,Alpha tubulin,e
+data/alpha_tubulin/3500000757_100X_20170327_7-Scene-07-P64-D08.czi,6,5,Alpha tubulin,e
+data/alpha_tubulin/3500000757_100X_20170327_4-Scene-08-P51-D07.czi,6,5,Alpha tubulin,e
+data/alpha_tubulin/3500000781_100X_20170331_e-Scene-05-P15-D06.czi,6,5,Alpha tubulin,e
+data/beta_actin/3500001310_100X_20170919_1-Scene-02-P6-F08.czi,6,5,Beta actin,
+data/beta_actin/3500001245_100X_20170828_2-Scene-02-P22-E08.czi,6,5,Beta actin,
+data/beta_actin/3500001199_100X_20170818_16_184_2-Scene-08-P38-E07.czi,6,5,Beta actin,
+data/beta_actin/3500001238_10X_20170828_1-Scene-1-P1-E04.czi,6,5,Beta actin,
+data/beta_actin/3500001222_100X_20170822_2-Scene-01-P3-E04.czi,6,5,Beta actin,
+data/beta_actin/3500001199_100X_20170818_16_184_1-Scene-03-P3-E04.czi,6,5,Beta actin,
+data/beta_actin/3500001199_100X_20170818_16_184_1-Scene-27-P30-E06.czi,6,5,Beta actin,
+data/beta_actin/3500001199_100X_20170818_16_184_1-Scene-11-P11-E05.czi,6,5,Beta actin,
+data/beta_actin/3500001238_10X_20170828_2-Scene-10-P14-E05.czi,6,5,Beta actin,
+data/beta_actin/3500001310_100X_20170919_1-Scene-10-P30-F06.czi,6,5,Beta actin,
+data/beta_actin/3500001221_100X_20170822_5-Scene-1-P36-E04.czi,6,5,Beta actin,
+data/beta_actin/3500001199_100X_20170818_16_184_1-Scene-17-P19-E05.czi,6,5,Beta actin,
+data/beta_actin/3500001199_100X_20170818_16_184_1-Scene-12-P12-E05.czi,6,5,Beta actin,
+data/beta_actin/3500001245_100X_20170828_1-Scene-06-P6-E04.czi,6,5,Beta actin,
+data/beta_actin/3500001221_100X_20170822_5-Scene-3-P38-F05.czi,6,5,Beta actin,
+data/beta_actin/3500001199_100X_20170818_16_184_1-Scene-02-P2-E04.czi,6,5,Beta actin,
+data/beta_actin/3500001307_100X_20170919_16_184_2-Scene-02-P15-F05.czi,6,5,Beta actin,
+data/beta_actin/3500001200_100X_20170818_1-Scene-19-P19-E06.czi,6,5,Beta actin,
+data/beta_actin/3500001310_100X_20170919_1-Scene-09-P27-E07.czi,6,5,Beta actin,
+data/beta_actin/3500001245_100X_20170828_2-Scene-13-P33-F04.czi,6,5,Beta actin,
+data/beta_actin/3500001222_100X_20170822_4-Scene-11-P35-F06.czi,6,5,Beta actin,
+data/beta_actin/3500001200_100X_20170818_1-Scene-22-P22-E07.czi,6,5,Beta actin,
+data/beta_actin/3500001222_100X_20170822_3-Scene-12-P24-E07.czi,6,5,Beta actin,
+data/beta_actin/3500001200_100X_20170818_1-Scene-16-P16-E06.czi,6,5,Beta actin,
+data/beta_actin/3500001221_100X_20170822_1-Scene-5-P5-E08.czi,6,5,Beta actin,
+data/beta_actin/3500001245_100X_20170828_1-Scene-10-P10-E04.czi,6,5,Beta actin,
+data/beta_actin/3500001221_100X_20170822_4-Scene-05-P26-F08.czi,6,5,Beta actin,
+data/beta_actin/3500001222_100X_20170822_2-Scene-06-P8-E05.czi,6,5,Beta actin,
+data/beta_actin/3500001200_100X_20170818_1-Scene-27-P27-E07.czi,6,5,Beta actin,
+data/beta_actin/3500001245_100X_20170828_1-Scene-16-P16-E07.czi,6,5,Beta actin,
+data/beta_actin/3500001199_100X_20170818_16_184_1-Scene-07-P7-E04.czi,6,5,Beta actin,
+data/beta_actin/3500001245_100X_20170828_2-Scene-14-P34-F04.czi,6,5,Beta actin,
+data/beta_actin/3500001200_100X_20170818_1-Scene-29-P29-E07.czi,6,5,Beta actin,
+data/beta_actin/3500001199_100X_20170818_16_184_2-Scene-02-P32-E07.czi,6,5,Beta actin,
+data/beta_actin/3500001222_100X_20170822_3-Scene-01-P13-E06.czi,6,5,Beta actin,
+data/beta_actin/3500001245_100X_20170828_1-Scene-15-P15-E07.czi,6,5,Beta actin,
+data/beta_actin/3500001245_100X_20170828_1-Scene-03-P3-E04.czi,6,5,Beta actin,
+data/beta_actin/3500001238_10X_20170828_2-Scene-05-P8-E05.czi,6,5,Beta actin,
+data/beta_actin/3500001199_100X_20170818_16_184_1-Scene-01-P1-E04.czi,6,5,Beta actin,
+data/beta_actin/3500001200_100X_20170818_1-Scene-06-P6-E05.czi,6,5,Beta actin,
+data/beta_actin/3500001245_100X_20170828_2-Scene-01-P21-E08.czi,6,5,Beta actin,
+data/beta_actin/3500001200_100X_20170818_1-Scene-11-P11-E06.czi,6,5,Beta actin,
+data/beta_actin/3500001200_100X_20170818_1-Scene-08-P8-E05.czi,6,5,Beta actin,
+data/beta_actin/3500001221_100X_20170822_2-Scene-01-P9-E08.czi,6,5,Beta actin,
+data/beta_actin/3500001200_100X_20170818_1-Scene-31-P31-E07.czi,6,5,Beta actin,
+data/beta_actin/3500001245_100X_20170828_1-Scene-11-P11-E07.czi,6,5,Beta actin,
+data/beta_actin/3500001200_100X_20170818_1-Scene-15-P15-E06.czi,6,5,Beta actin,
+data/beta_actin/3500001222_100X_20170822_4-Scene-08-P32-F05.czi,6,5,Beta actin,
+data/beta_actin/3500001221_100X_20170822_5-Scene-2-P37-F05.czi,6,5,Beta actin,
+data/beta_actin/3500001222_100X_20170822_4-Scene-06-P30-F05.czi,6,5,Beta actin,
+data/beta_actin/3500001308_100X_20170919_1r-Scene-2-P5-E05.czi,6,5,Beta actin,r
+data/beta_actin/3500001308_100X_20170919_5r-Scene-4-P41-F05.czi,6,5,Beta actin,r
+data/beta_actin/3500001307_100X_20170919_16_184_1r-Scene-06-P17-F05.czi,6,5,Beta actin,r
+data/beta_actin/3500001310_100X_20170919_2r-Scene-5-P41-F05.czi,6,5,Beta actin,r
+data/beta_actin/3500001309_100X_20170919_16_184_1r-Scene-14-P41-F08.czi,6,5,Beta actin,r
+data/beta_actin/3500001308_100X_20170919_4r-Scene-1-P29-F04.czi,6,5,Beta actin,r
+data/beta_actin/3500001307_100X_20170919_16_184_1r-Scene-01-P2-E05.czi,6,5,Beta actin,r
+data/beta_actin/3500001310_100X_20170919_2r-Scene-2-P32-F06.czi,6,5,Beta actin,r
+data/beta_actin/3500001309_100X_20170919_16_184_1r-Scene-02-P5-E04.czi,6,5,Beta actin,r
+data/beta_actin/3500001309_100X_20170919_16_184_1r-Scene-13-P38-F08.czi,6,5,Beta actin,r
+data/beta_actin/3500001307_100X_20170919_16_184_1r-Scene-09-P26-F06.czi,6,5,Beta actin,r
+data/beta_actin/3500001307_100X_20170919_16_184_1r-Scene-11-P32-F07.czi,6,5,Beta actin,r
+data/beta_actin/3500001310_100X_20170919_1r-Scene-01-P2-F08.czi,6,5,Beta actin,r
+data/beta_actin/3500001308_100X_20170919_5r-Scene-7-P50-F07.czi,6,5,Beta actin,r
+data/beta_actin/3500001308_100X_20170919_5r-Scene-2-P35-F04.czi,6,5,Beta actin,r
+data/beta_actin/3500001310_100X_20170919_2e-Scene-1-P34-F06.czi,6,5,Beta actin,e
+data/beta_actin/3500001308_100X_20170919_3e-Scene-03-P31-F04.czi,6,5,Beta actin,e
+data/beta_actin/3500001308_100X_20170919_3e-Scene-01-P25-E08.czi,6,5,Beta actin,e
+data/beta_actin/3500001309_100X_20170919_16_184_1e-Scene-08-P22-E08.czi,6,5,Beta actin,e
+data/beta_actin/3500001309_100X_20170919_16_184_1e-Scene-06-P16-E07.czi,6,5,Beta actin,e
+data/beta_actin/3500001310_100X_20170919_2e-Scene-2-P37-F05.czi,6,5,Beta actin,e
+data/beta_actin/3500001307_100X_20170919_16_184_1e-Scene-06-P16-F05.czi,6,5,Beta actin,e
+data/beta_actin/3500001310_100X_20170919_1e-Scene-05-P13-E08.czi,6,5,Beta actin,e
+data/beta_actin/3500001310_100X_20170919_1e-Scene-03-P7-F08.czi,6,5,Beta actin,e
+data/beta_actin/3500001310_100X_20170919_1e-Scene-02-P4-F08.czi,6,5,Beta actin,e
+data/beta_actin/3500001308_100X_20170919_3e-Scene-06-P40-F05.czi,6,5,Beta actin,e
+data/beta_actin/3500001310_100X_20170919_1e-Scene-04-P10-E08.czi,6,5,Beta actin,e
+data/beta_actin/3500001309_100X_20170919_16_184_1e-Scene-01-P1-E04.czi,6,5,Beta actin,e
+data/beta_actin/3500001308_100X_20170919_3e-Scene-02-P28-F04.czi,6,5,Beta actin,e
+data/beta_actin/3500001308_100X_20170919_3e-Scene-05-P37-F05.czi,6,5,Beta actin,e
+data/desmoplakin/3500001124_100X_20170725_6-Scene-03-P27-E07.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001101_100X_20170722_2-Scene-13-P33-F05.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001101_100X_20170722_1-Scene-19-P20-F04.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001100_100X_20170721_9-Scene-09-P43-F06.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001108_100X_20170724_1c-Scene-16-P16-F04.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001123_100X_20170725_3-Scene-04-P14-E08.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001078_100X_20170717_1-Scene-2-P2-E04.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001128_100X_20170728_2-Scene-09-P25-E07.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001085_100X_20170719_1-Scene-6-P6-E04.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001079_100X_20170717_1c-Scene-05-P6-E04.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001128_100X_20170728_4-Scene-3-P50-F07.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001182_100X_20170814_1-Scene-09-P25-F04.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001085_100X_20170719_5-Scene-08-P48-F08.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001092_100X_20170718_2-Scene-07-P17-F08.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001100_100X_20170721_4-Scene-3-P16-E07.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001128_100X_20170728_2-Scene-02-P18-E06.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001118_100X_20170726_2-Scene-05-P14-E06.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001100_100X_20170721_1-Scene-3-P3-E04.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001085_100X_20170719_1-Scene-8-P8-E04.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001100_100X_20170721_9-Scene-06-P40-F04.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001100_100X_20170721_4-Scene-5-P18-E07.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001080_100X_20170717_1-Scene-22-P24-E08.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001080_100X_20170717_1-Scene-23-P25-E08.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001108_100X_20170724_2c-Scene-11-P31-F06.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001085_100X_20170719_1-Scene-5-P5-E04.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001100_100X_20170721_9-Scene-07-P41-F06.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001085_100X_20170719_3-Scene-01-P20-E06.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001078_100X_20170717_3-Scene-12-P32-F07.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001085_100X_20170719_3-Scene-05-P24-E08.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001182_100X_20170814_1-Scene-03-P7-E04.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001079_100X_20170717_2c-Scene-14-P34-F04.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001170_100X_20170808_17_65_1-Scene-01-P3-E04.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001105_100X_20170725_3-Scene-05-P29-F04.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001077_100X_20170717_1-Scene-05-P5-E04.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001079_100X_20170717_2c-Scene-01-P21-E07.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001100_100X_20170721_3-Scene-1-P11-E07.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001188_100X_20170814_4-Scene-02-P18-E07.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001121_100X_20170726_1-Scene-06-P8-E06.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001100_100X_20170721_9-Scene-13-P47-F06.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001158_100X_20170807_6-Scene-10-P30-E06.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001101_100X_20170722_1-Scene-02-P2-E04.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001126_100X_20170728_2-Scene-08-P28-E08.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001105_100X_20170725_2-Scene-02-P14-E06.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001101_100X_20170722_1-Scene-17-P18-F04.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001121_100X_20170726_2-Scene-06-P30-F04.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001100_100X_20170721_7-Scene-2-P27-E08.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001128_100X_20170728_1-Scene-09-P14-E05.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001123_100X_20170725_4-Scene-10-P30-F06.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001078_100X_20170717_1-Scene-6-P6-E08.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001170_100X_20170808_17_65_1-Scene-03-P9-E04.czi,6,5,Desmoplakin,
+data/desmoplakin/3500001170_100X_20170808_17_65_1r-Scene-05-P14-E05.czi,6,5,Desmoplakin,r
+data/desmoplakin/3500001160_100X_20170807_17_65_1r-Scene-05-P14-E07.czi,6,5,Desmoplakin,r
+data/desmoplakin/3500001188_100X_20170814_2r-Scene-15-P44-F07.czi,6,5,Desmoplakin,r
+data/desmoplakin/3500001188_100X_20170814_2r-Scene-02-P5-E05.czi,6,5,Desmoplakin,r
+data/desmoplakin/3500001182_100X_20170814_1r-Scene-08-P23-F04.czi,6,5,Desmoplakin,r
+data/desmoplakin/3500001167_100X_20170808_1r_1-Scene-1-P2-F04.czi,6,5,Desmoplakin,r
+data/desmoplakin/3500001158_100X_20170807_4r-Scene-2-P32-E08.czi,6,5,Desmoplakin,r
+data/desmoplakin/3500001188_100X_20170814_2r-Scene-04-P11-E07.czi,6,5,Desmoplakin,r
+data/desmoplakin/3500001167_100X_20170808_1r_2-Scene-2-P8-F04.czi,6,5,Desmoplakin,r
+data/desmoplakin/3500001182_100X_20170814_1r-Scene-04-P11-E04.czi,6,5,Desmoplakin,r
+data/desmoplakin/3500001158_100X_20170807_2r-Scene-1-P2-E04.czi,6,5,Desmoplakin,r
+data/desmoplakin/3500001158_100X_20170807_2r-Scene-3-P8-E04.czi,6,5,Desmoplakin,r
+data/desmoplakin/3500001182_100X_20170814_1r-Scene-01-P2-E04.czi,6,5,Desmoplakin,r
+data/desmoplakin/3500001188_100X_20170814_2r-Scene-10-P29-F06.czi,6,5,Desmoplakin,r
+data/desmoplakin/3500001182_100X_20170814_1r-Scene-02-P5-E04.czi,6,5,Desmoplakin,r
+data/desmoplakin/3500001188_100X_20170814_1e-Scene-08-P22-F05.czi,6,5,Desmoplakin,e
+data/desmoplakin/3500001169_100X_20170808_1e-Scene-4-P10-E05.czi,6,5,Desmoplakin,e
+data/desmoplakin/3500001170_100X_20170808_17_65_1e-Scene-01-P1-E04.czi,6,5,Desmoplakin,e
+data/desmoplakin/3500001158_100X_20170807_1e-Scene-04-P10-E05.czi,6,5,Desmoplakin,e
+data/desmoplakin/3500001169_100X_20170808_2e-Scene-01-P16-F04.czi,6,5,Desmoplakin,e
+data/desmoplakin/3500001188_100X_20170814_1e-Scene-13-P37-F07.czi,6,5,Desmoplakin,e
+data/desmoplakin/3500001158_100X_20170807_1e-Scene-09-P25-E06.czi,6,5,Desmoplakin,e
+data/desmoplakin/3500001158_100X_20170807_1e-Scene-02-P4-E04.czi,6,5,Desmoplakin,e
+data/desmoplakin/3500001188_100X_20170814_1e-Scene-12-P34-F06.czi,6,5,Desmoplakin,e
+data/desmoplakin/3500001158_100X_20170807_1e-Scene-07-P19-E05.czi,6,5,Desmoplakin,e
+data/desmoplakin/3500001160_100X_20170807_17_65_1e-Scene-06-P16-E07.czi,6,5,Desmoplakin,e
+data/desmoplakin/3500001169_100X_20170808_2e-Scene-09-P40-F08.czi,6,5,Desmoplakin,e
+data/desmoplakin/3500001158_100X_20170807_1e-Scene-01-P1-E04.czi,6,5,Desmoplakin,e
+data/desmoplakin/3500001158_100X_20170807_1e-Scene-08-P22-E06.czi,6,5,Desmoplakin,e
+data/desmoplakin/3500001169_100X_20170808_2e-Scene-06-P31-F07.czi,6,5,Desmoplakin,e
+data/lamin_b1/3500000926_100X_20170523_1-Scene-04-P4-E04.czi,6,5,Lamin B1,
+data/lamin_b1/3500000939_100X_20170526_8-Scene-03-P43-E08.czi,6,5,Lamin B1,
+data/lamin_b1/3500000944_100X_20170530_5-Scene-04-P34-E07.czi,6,5,Lamin B1,
+data/lamin_b1/3500000938_100X_20170526_4-Scene-07-P37-E08.czi,6,5,Lamin B1,
+data/lamin_b1/3500000958_10X_20170606_1-Scene-03-P3-E04.czi,6,5,Lamin B1,
+data/lamin_b1/3500000938_100X_20170526_4-Scene-08-P38-E08.czi,6,5,Lamin B1,
+data/lamin_b1/3500000938_100X_20170526_3-Scene-05-P19-E05.czi,6,5,Lamin B1,
+data/lamin_b1/3500000944_100X_20170530_6-Scene-07-P47-E08.czi,6,5,Lamin B1,
+data/lamin_b1/3500000950_100X_20170531_5-Scene-4-P16-E05.czi,6,5,Lamin B1,
+data/lamin_b1/3500000956_100X_20170606_3c-Scene-1-P25-F04.czi,6,5,Lamin B1,
+data/lamin_b1/3500000876_100X_20170508_3-Scene-06-P26-E06.czi,6,5,Lamin B1,
+data/lamin_b1/3500000938_100X_20170526_5-Scene-7-P63-F07.czi,6,5,Lamin B1,
+data/lamin_b1/3500000949_100X_20170531_13-Scene-1-P37-E08.czi,6,5,Lamin B1,
+data/lamin_b1/3500000939_100X_20170526_7-Scene-01-P31-E07.czi,6,5,Lamin B1,
+data/lamin_b1/3500000922_100X_20170522_3-Scene-01-P42-E07.czi,6,5,Lamin B1,
+data/lamin_b1/3500000884_100X_20170509_1-Scene-11-P51-F05.czi,6,5,Lamin B1,
+data/lamin_b1/3500000896_100X_20170515_E07_P36.czi,3,2,Lamin B1,
+data/lamin_b1/3500000938_100X_20170526_3-Scene-11-P25-E07.czi,6,5,Lamin B1,
+data/lamin_b1/3500000953_100X_20170607_3c-Scene-1-P25-F06.czi,6,5,Lamin B1,
+data/lamin_b1/3500000935_100X_20170524_5-Scene-05-P35-F06.czi,6,5,Lamin B1,
+data/lamin_b1/3500000913_100X_20170519_2-Scene-6-P10-E04.czi,3,2,Lamin B1,
+data/lamin_b1/3500000938_100X_20170526_3-Scene-14-P28-E07.czi,6,5,Lamin B1,
+data/lamin_b1/3500000953_100X_20170607_5c-Scene-3-P45-E05.czi,6,5,Lamin B1,
+data/lamin_b1/3500000926_100X_20170523_4-Scene-10-P40-E07.czi,6,5,Lamin B1,
+data/lamin_b1/3500000884_100X_20170509_3-Scene-12-P32-E08.czi,6,5,Lamin B1,
+data/lamin_b1/3500000913_100X_20170519_6-Scene-06-P54-F05.czi,3,2,Lamin B1,
+data/lamin_b1/3500000896_100X_20170515_E07_P38.czi,3,2,Lamin B1,
+data/lamin_b1/3500000899_100X_20170515_1-Scene-04-P4-E04.czi,6,5,Lamin B1,
+data/lamin_b1/3500000950_100X_20170531_6-Scene-01-P21-E06.czi,6,5,Lamin B1,
+data/lamin_b1/3500000922_100X_20170522_2-Scene-07-P27-E06.czi,6,5,Lamin B1,
+data/lamin_b1/3500000949_100X_20170531_6-Scene-4-P15-E05.czi,6,5,Lamin B1,
+data/lamin_b1/3500000915_100X_20170519_2-Scene-03-P3-E06.czi,6,5,Lamin B1,
+data/lamin_b1/3500000943_100X_20170530_5-Scene-4-P18-E05.czi,6,5,Lamin B1,
+data/lamin_b1/3500000913_100X_20170519_6-Scene-05-P53-F05.czi,3,2,Lamin B1,
+data/lamin_b1/3500000924_100X_20170522_4-Scene-03-P41-F04.czi,3,2,Lamin B1,
+data/lamin_b1/3500000953_100X_20170607_1c-Scene-2-P8-F08.czi,6,5,Lamin B1,
+data/lamin_b1/3500000926_100X_20170523_2-Scene-09-P19-E05.czi,6,5,Lamin B1,
+data/lamin_b1/3500000876_100X_20170508_2-Scene-06-P16-E05.czi,6,5,Lamin B1,
+data/lamin_b1/3500000958_10X_20170606_3-Scene-08-P26-E06.czi,6,5,Lamin B1,
+data/lamin_b1/3500000884_100X_20170509_3-Scene-10-P30-E07.czi,6,5,Lamin B1,
+data/lamin_b1/3500000875_100X_20170508_11-Scene-4-P34-E06.czi,3,2,Lamin B1,
+data/lamin_b1/3500000875_100X_20170508_6-Scene-1-P13-F04.czi,3,2,Lamin B1,
+data/lamin_b1/3500000958_10X_20170606_4-Scene-02-P29-E07.czi,6,5,Lamin B1,
+data/lamin_b1/3500000884_100X_20170509_2-Scene-07-P7-E05.czi,6,5,Lamin B1,
+data/lamin_b1/3500000933_100X_20170523_3-Scene-4-P10-E05.czi,3,2,Lamin B1,
+data/lamin_b1/3500000913_100X_20170519_5-Scene-6-P46-E08.czi,3,2,Lamin B1,
+data/lamin_b1/3500000915_100X_20170519_1-Scene-6-P58-E05.czi,6,5,Lamin B1,
+data/lamin_b1/3500000933_100X_20170523_7-Scene-08-P31-E07.czi,3,2,Lamin B1,
+data/lamin_b1/3500000875_100X_20170508_12-Scene-2-P36-E06.czi,3,2,Lamin B1,
+data/lamin_b1/3500000915_100X_20170519_3-Scene-29-P52-F08.czi,6,5,Lamin B1,
+data/lamin_b1/3500000958_10X_20170606_3-Scene-01-P19-E06.czi,6,5,Lamin B1,r
+data/lamin_b1/3500000958_10X_20170606_3-Scene-04-P22-E06.czi,6,5,Lamin B1,r
+data/lamin_b1/3500000958_10X_20170606_5-Scene-10-P46-F04.czi,6,5,Lamin B1,r
+data/lamin_b1/3500000956_100X_20170606_2r-Scene-1-P13-E05.czi,6,5,Lamin B1,r
+data/lamin_b1/3500000956_100X_20170606_5r_c-Scene-5-P44-F08.czi,6,5,Lamin B1,r
+data/lamin_b1/3500000956_100X_20170606_4r-Scene-3-P33-F05.czi,6,5,Lamin B1,r
+data/lamin_b1/3500000954_100X_20170607_2-Scene-10-P22-E07.czi,6,5,Lamin B1,r
+data/lamin_b1/3500000956_100X_20170606_3r-Scene-2-P23-F04.czi,6,5,Lamin B1,r
+data/lamin_b1/3500000954_100X_20170607_3-Scene-5-P29-E08.czi,6,5,Lamin B1,r
+data/lamin_b1/3500000958_10X_20170606_5-Scene-13-P49-F04.czi,6,5,Lamin B1,r
+data/lamin_b1/3500000958_10X_20170606_4-Scene-01-P28-E07.czi,6,5,Lamin B1,r
+data/lamin_b1/3500000956_100X_20170606_2r-Scene-2-P14-E05.czi,6,5,Lamin B1,r
+data/lamin_b1/3500000956_100X_20170606_4r-Scene-1-P31-F05.czi,6,5,Lamin B1,r
+data/lamin_b1/3500000958_10X_20170606_4-Scene-07-P34-E07.czi,6,5,Lamin B1,r
+data/lamin_b1/3500000953_100X_20170607_2r-Scene-1-P13-F07.czi,6,5,Lamin B1,r
+data/lamin_b1/3500000953_100X_20170607_2e-2-Scene-2-P12-F07.czi,6,5,Lamin B1,e
+data/lamin_b1/3500000956_100X_20170606_3e-Scene-3-P21-F04.czi,6,5,Lamin B1,e
+data/lamin_b1/3500000953_100X_20170607_1e-Scene-3-P3-F08.czi,6,5,Lamin B1,e
+data/lamin_b1/3500000956_100X_20170606_2e-Scene-1-P10-E05.czi,6,5,Lamin B1,e
+data/lamin_b1/3500000958_10X_20170606_3-Scene-09-P27-E06.czi,6,5,Lamin B1,e
+data/lamin_b1/3500000954_100X_20170607_1-Scene-08-P8-E05.czi,6,5,Lamin B1,e
+data/lamin_b1/3500000956_100X_20170606_1e-Scene-1-P1-E04.czi,6,5,Lamin B1,e
+data/lamin_b1/3500000953_100X_20170607_5e-Scene-2-P38-E05.czi,6,5,Lamin B1,e
+data/lamin_b1/3500000953_100X_20170607_2e-2-Scene-1-P11-F07.czi,6,5,Lamin B1,e
+data/lamin_b1/3500000958_10X_20170606_3-Scene-06-P24-E06.czi,6,5,Lamin B1,e
+data/lamin_b1/3500000958_10X_20170606_1-Scene-01-P1-E04.czi,6,5,Lamin B1,e
+data/lamin_b1/3500000956_100X_20170606_1e-Scene-3-P3-E04.czi,6,5,Lamin B1,e
+data/lamin_b1/3500000954_100X_20170607_4-Scene-08-P38-F05.czi,6,5,Lamin B1,e
+data/lamin_b1/3500000958_10X_20170606_1-Scene-04-P4-E04.czi,6,5,Lamin B1,e
+data/lamin_b1/3500000956_100X_20170606_4e-Scene-1-P28-F05.czi,6,5,Lamin B1,e
+data/st6gal1/3500001298_100X_20170918_3-Scene-13-P30-E07.czi,6,5,ST6GAL1,
+data/st6gal1/3500001251_100X_20170829_2-Scene-07-P19-E08.czi,6,5,ST6GAL1,
+data/st6gal1/3500001274_100X_20170905_3-Scene-15-P45-F06.czi,6,5,ST6GAL1,
+data/st6gal1/3500001232_100X_20170825_2-Scene-05-P16-E05.czi,6,5,ST6GAL1,
+data/st6gal1/3500001234_100X_20170825_2-Scene-24-P59-F07.czi,6,5,ST6GAL1,
+data/st6gal1/3500001262_100X_20170901_4-Scene-10-P50-F06.czi,6,5,ST6GAL1,
+data/st6gal1/3500001274_100X_20170905_3-Scene-13-P43-F06.czi,6,5,ST6GAL1,
+data/st6gal1/3500001251_100X_20170829_3-Scene-08-P32-F05.czi,6,5,ST6GAL1,
+data/st6gal1/3500001303_100X_20170918_1-Scene-13-P39-E08.czi,6,5,ST6GAL1,
+data/st6gal1/3500001289_100X_20170915_25_44_1-Scene-08-P30-E07.czi,6,5,ST6GAL1,
+data/st6gal1/3500001274_100X_20170905_1-Scene-04-P4-E04.czi,6,5,ST6GAL1,
+data/st6gal1/3500001234_100X_20170825_2-Scene-08-P43-E08.czi,6,5,ST6GAL1,
+data/st6gal1/3500001298_100X_20170918_3-Scene-09-P18-E05.czi,6,5,ST6GAL1,
+data/st6gal1/3500001262_100X_20170901_3-Scene-11-P36-F07.czi,6,5,ST6GAL1,
+data/st6gal1/3500001251_100X_20170829_2-Scene-02-P14-E07.czi,6,5,ST6GAL1,
+data/st6gal1/3500001262_100X_20170901_1-Scene-04-P4-E05.czi,6,5,ST6GAL1,
+data/st6gal1/3500001298_100X_20170918_3-Scene-02-P48-F04.czi,6,5,ST6GAL1,
+data/st6gal1/3500001234_100X_20170825_2-Scene-23-P58-F07.czi,6,5,ST6GAL1,
+data/st6gal1/3500001262_100X_20170901_1-Scene-09-P9-E06.czi,6,5,ST6GAL1,
+data/st6gal1/3500001251_100X_20170829_1-Scene-03-P3-E04.czi,6,5,ST6GAL1,
+data/st6gal1/3500001282_100X_20170912_1-Scene-7-P21-F04.czi,6,5,ST6GAL1,
+data/st6gal1/3500001303_100X_20170918_1-Scene-02-P6-E04.czi,6,5,ST6GAL1,
+data/st6gal1/3500001262_100X_20170901_2-Scene-08-P18-E07.czi,6,5,ST6GAL1,
+data/st6gal1/3500001282_100X_20170912_1-Scene-1-P3-E04.czi,6,5,ST6GAL1,
+data/st6gal1/3500001284_100X_20170912_25_44_1-Scene-11-P32-F04.czi,6,5,ST6GAL1,
+data/st6gal1/3500001250_100X_20170829_1-Scene-02-P2-E04.czi,6,5,ST6GAL1,
+data/st6gal1/3500001298_100X_20170918_3-Scene-17-P42-E08.czi,6,5,ST6GAL1,
+data/st6gal1/3500001303_100X_20170918_1-Scene-05-P15-E05.czi,6,5,ST6GAL1,
+data/st6gal1/3500001262_100X_20170901_2-Scene-13-P23-E08.czi,6,5,ST6GAL1,
+data/st6gal1/3500001234_100X_20170825_2-Scene-09-P44-F08.czi,6,5,ST6GAL1,
+data/st6gal1/3500001234_100X_20170825_1-Scene-30-P31-E07.czi,6,5,ST6GAL1,
+data/st6gal1/3500001262_100X_20170901_4-Scene-02-P42-F07.czi,6,5,ST6GAL1,
+data/st6gal1/3500001289_100X_20170915_25_44_1-Scene-07-P27-E06.czi,6,5,ST6GAL1,
+data/st6gal1/3500001251_100X_20170829_2-Scene-06-P18-E07.czi,6,5,ST6GAL1,
+data/st6gal1/3500001271_100X_20170905_2-Scene-4-P8-E04.czi,6,5,ST6GAL1,
+data/st6gal1/3500001271_100X_20170905_4-Scene-04-P24-E06.czi,6,5,ST6GAL1,
+data/st6gal1/3500001274_100X_20170905_3-Scene-07-P37-F05.czi,6,5,ST6GAL1,
+data/st6gal1/3500001232_100X_20170825_2-Scene-04-P15-E05.czi,6,5,ST6GAL1,
+data/st6gal1/3500001289_100X_20170915_25_44_1-Scene-02-P6-E04.czi,6,5,ST6GAL1,
+data/st6gal1/3500001250_100X_20170829_3-Scene-07-P25-F05.czi,6,5,ST6GAL1,
+data/st6gal1/3500001282_100X_20170912_1-Scene-6-P18-E05.czi,6,5,ST6GAL1,
+data/st6gal1/3500001232_100X_20170825_3-Scene-19-P54-F06.czi,6,5,ST6GAL1,
+data/st6gal1/3500001264_100X_20170901_4-Scene-08-P33-E08.czi,6,5,ST6GAL1,
+data/st6gal1/3500001232_100X_20170825_3-Scene-21-P56-F06.czi,6,5,ST6GAL1,
+data/st6gal1/3500001250_100X_20170829_3-Scene-06-P24-F05.czi,6,5,ST6GAL1,
+data/st6gal1/3500001274_100X_20170905_3-Scene-11-P41-F05.czi,6,5,ST6GAL1,
+data/st6gal1/3500001274_100X_20170905_1-Scene-11-P11-E05.czi,6,5,ST6GAL1,
+data/st6gal1/3500001262_100X_20170901_2-Scene-02-P12-E06.czi,6,5,ST6GAL1,
+data/st6gal1/3500001234_100X_20170825_1-Scene-16-P17-E05.czi,6,5,ST6GAL1,
+data/st6gal1/3500001274_100X_20170905_1-Scene-13-P13-E06.czi,6,5,ST6GAL1,
+data/st6gal1/3500001289_100X_20170915_25_44_1r-Scene-02-P5-E04.czi,6,5,ST6GAL1,r
+data/st6gal1/3500001287_10X_20170915_1r-Scene-01-P2-E04.czi,6,5,ST6GAL1,r
+data/st6gal1/3500001298_100X_20170918_2r-Scene-09-P26-E06.czi,6,5,ST6GAL1,r
+data/st6gal1/3500001298_100X_20170918_2r-Scene-16-P47-F04.czi,6,5,ST6GAL1,r
+data/st6gal1/3500001303_100X_20170918_r1-Scene-18-P53-F04.czi,6,5,ST6GAL1,r
+data/st6gal1/3500001298_100X_20170918_2r-Scene-17-P50-F04.czi,6,5,ST6GAL1,r
+data/st6gal1/3500001287_10X_20170915_1r-Scene-04-P11-E05.czi,6,5,ST6GAL1,r
+data/st6gal1/3500001284_100X_20170912_25_44_1r-Scene-05-P14-E07.czi,6,5,ST6GAL1,r
+data/st6gal1/3500001287_10X_20170915_1r-Scene-11-P32-E07.czi,6,5,ST6GAL1,r
+data/st6gal1/3500001282_100X_20170912_1r-Scene-02-P5-E04.czi,6,5,ST6GAL1,r
+data/st6gal1/3500001298_100X_20170918_2r-Scene-04-P11-E05.czi,6,5,ST6GAL1,r
+data/st6gal1/3500001289_100X_20170915_25_44_1r-Scene-13-P38-E08.czi,6,5,ST6GAL1,r
+data/st6gal1/3500001289_100X_20170915_25_44_1r-Scene-09-P26-E06.czi,6,5,ST6GAL1,r
+data/st6gal1/3500001298_100X_20170918_2r-Scene-08-P23-E06.czi,6,5,ST6GAL1,r
+data/st6gal1/3500001287_10X_20170915_1r-Scene-07-P20-E06.czi,6,5,ST6GAL1,r
+data/st6gal1/3500001298_100X_20170918_1e-Scene-08-P22-E06.czi,6,5,ST6GAL1,e
+data/st6gal1/3500001298_100X_20170918_1e-Scene-04-P10-E05.czi,6,5,ST6GAL1,e
+data/st6gal1/3500001289_100X_20170915_25_44_1e-Scene-08-P25-E06.czi,6,5,ST6GAL1,e
+data/st6gal1/3500001289_100X_20170915_25_44_1e-Scene-14-P46-F04.czi,6,5,ST6GAL1,e
+data/st6gal1/3500001289_100X_20170915_25_44_1e-Scene-11-P34-E07.czi,6,5,ST6GAL1,e
+data/st6gal1/3500001287_10X_20170915_1e-Scene-02-P7-E04.czi,6,5,ST6GAL1,e
+data/st6gal1/3500001282_100X_20170912_1e-Scene-12-P34-F06.czi,6,5,ST6GAL1,e
+data/st6gal1/3500001287_10X_20170915_1e-Scene-06-P19-E06.czi,6,5,ST6GAL1,e
+data/st6gal1/3500001287_10X_20170915_1e-Scene-04-P13-E05.czi,6,5,ST6GAL1,e
+data/st6gal1/3500001287_10X_20170915_1e-Scene-07-P22-E06.czi,6,5,ST6GAL1,e
+data/st6gal1/3500001282_100X_20170912_1e-Scene-11-P31-F05.czi,6,5,ST6GAL1,e
+data/st6gal1/3500001298_100X_20170918_1e-Scene-17-P49-F04.czi,6,5,ST6GAL1,e
+data/st6gal1/3500001287_10X_20170915_1e-Scene-17-P52-F04.czi,6,5,ST6GAL1,e
+data/st6gal1/3500001287_10X_20170915_1e-Scene-15-P46-F04.czi,6,5,ST6GAL1,e
+data/st6gal1/3500001298_100X_20170918_1e-Scene-02-P4-E04.czi,6,5,ST6GAL1,e
+data/sec61_beta/3500001155_100X_20170807_2-Scene-5-P8-E04.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001131_100X_20170728_1-Scene-14-P16-E07.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001130_100X_20170728_1-Scene-22-P22-F07.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001198_100X_20170815_2-Scene-01-P16-E08.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001179_100X_20170811_3-Scene-7-P33-F07.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001191_100X_20170815_3-Scene-07-P12-F04.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001152_100X_20170804_2-Scene-03-P6-F08.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001155_100X_20170807_5-Scene-04-P24-E08.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001198_100X_20170815_2-Scene-13-P28-F06.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001191_100X_20170815_3-Scene-02-P7-E04.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001198_100X_20170815_2-Scene-11-P26-F05.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001131_100X_20170728_1-Scene-19-P21-E07.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001155_100X_20170807_4-Scene-08-P19-E06.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001131_100X_20170728_1-Scene-01-P1-E04.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001191_100X_20170815_4-Scene-06-P21-F05.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001153_100X_20170804_2-Scene-03-P33-F08.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001198_100X_20170815_1-Scene-05-P5-E04.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001157_100X_20170807_5-Scene-02-P32-E08.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001198_100X_20170815_1-Scene-07-P7-E05.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001198_100X_20170815_1-Scene-06-P6-E04.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001198_100X_20170815_1-Scene-14-P15-E08.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001153_100X_20170804_1-Scene-18-P19-E06.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001130_100X_20170728_1-Scene-34-P34-F05.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001131_100X_20170728_1-Scene-11-P13-E06.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001131_100X_20170728_1-Scene-23-P26-F07.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001153_100X_20170804_1-Scene-27-P28-E07.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001157_100X_20170807_5-Scene-03-P33-E08.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001175_100X_20170811_4-Scene-06-P18-E05.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001130_100X_20170728_1-Scene-32-P32-F05.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001152_100X_20170804_3-Scene-12-P39-F04.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001130_100X_20170728_1-Scene-13-P13-E08.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001131_100X_20170728_1-Scene-22-P25-F08.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001155_100X_20170807_4-Scene-06-P17-E06.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001131_100X_20170728_1-Scene-15-P17-E07.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001157_100X_20170807_2-Scene-3-P8-E05.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001152_100X_20170804_3-Scene-08-P35-F04.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001130_100X_20170728_1-Scene-16-P16-F08.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001130_100X_20170728_1-Scene-01-P1-E07.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001191_100X_20170815_4-Scene-07-P22-F05.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001152_100X_20170804_3-Scene-09-P36-F04.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001152_100X_20170804_2-Scene-02-P5-F08.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001153_100X_20170804_1-Scene-05-P5-E04.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001157_100X_20170807_2-Scene-5-P10-E05.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001217_100X_20170821_3-Scene-02-P6-E04.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001218_100X_20170821_1-Scene-16-P54-F06.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001157_100X_20170807_2-Scene-4-P9-E05.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001198_100X_20170815_1-Scene-12-P13-E08.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001131_100X_20170728_1-Scene-12-P14-E06.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001179_100X_20170811_3-Scene-2-P18-E07.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001218_100X_20170821_1-Scene-10-P36-E08.czi,6,5,Sec61 beta,
+data/sec61_beta/3500001217_100X_20170821_2r-Scene-01-P2-E04.czi,6,5,Sec61 beta,r
+data/sec61_beta/3500001217_100X_20170821_2r-Scene-04-P11-E05.czi,6,5,Sec61 beta,r
+data/sec61_beta/3500001218_100X_20170821_1r-Scene-17-P50-F08.czi,6,5,Sec61 beta,r
+data/sec61_beta/3500001175_100X_20170811_3r-Scene-11-P41-E08.czi,6,5,Sec61 beta,r
+data/sec61_beta/3500001179_100X_20170811_2r-Scene-4-P29-F07.czi,6,5,Sec61 beta,r
+data/sec61_beta/3500001175_100X_20170811_3r-Scene-05-P23-E06.czi,6,5,Sec61 beta,r
+data/sec61_beta/3500001218_100X_20170821_1r-Scene-01-P2-E04.czi,6,5,Sec61 beta,r
+data/sec61_beta/3500001218_100X_20170821_1r-Scene-07-P20-E05.czi,6,5,Sec61 beta,r
+data/sec61_beta/3500001218_100X_20170821_1r-Scene-02-P5-E04.czi,6,5,Sec61 beta,r
+data/sec61_beta/3500001218_100X_20170821_1r-Scene-13-P38-E08.czi,6,5,Sec61 beta,r
+data/sec61_beta/3500001175_100X_20170811_2r-Scene-1-P2-E04.czi,6,5,Sec61 beta,r
+data/sec61_beta/3500001217_100X_20170821_2r-Scene-08-P23-E06.czi,6,5,Sec61 beta,r
+data/sec61_beta/3500001175_100X_20170811_3r-Scene-04-P20-E06.czi,6,5,Sec61 beta,r
+data/sec61_beta/3500001175_100X_20170811_3r-Scene-09-P35-E07.czi,6,5,Sec61 beta,r
+data/sec61_beta/3500001175_100X_20170811_2r-Scene-3-P8-E04.czi,6,5,Sec61 beta,r
+data/sec61_beta/3500001205_100X_20170818_3e-Scene-1-P31-F05.czi,6,5,Sec61 beta,e
+data/sec61_beta/3500001175_100X_20170811_1e-Scene-05-P13-E05.czi,6,5,Sec61 beta,e
+data/sec61_beta/3500001205_100X_20170818_2e-Scene-6-P25-F04.czi,6,5,Sec61 beta,e
+data/sec61_beta/3500001205_100X_20170818_3e-Scene-4-P40-F08.czi,6,5,Sec61 beta,e
+data/sec61_beta/3500001205_100X_20170818_2e-Scene-1-P10-E08.czi,6,5,Sec61 beta,e
+data/sec61_beta/3500001205_100X_20170818_1e-Scene-2-P4-E06.czi,6,5,Sec61 beta,e
+data/sec61_beta/3500001175_100X_20170811_1e-Scene-14-P40-E08.czi,6,5,Sec61 beta,e
+data/sec61_beta/3500001217_100X_20170821_1e-Scene-15-P43-F07.czi,6,5,Sec61 beta,e
+data/sec61_beta/3500001175_100X_20170811_1e-Scene-03-P7-E04.czi,6,5,Sec61 beta,e
+data/sec61_beta/3500001205_100X_20170818_1e-Scene-1-P1-E06.czi,6,5,Sec61 beta,e
+data/sec61_beta/3500001175_100X_20170811_1e-Scene-15-P43-E08.czi,6,5,Sec61 beta,e
+data/sec61_beta/3500001205_100X_20170818_3e-Scene-2-P34-F05.czi,6,5,Sec61 beta,e
+data/sec61_beta/3500001205_100X_20170818_3e-Scene-5-P43-F08.czi,6,5,Sec61 beta,e
+data/sec61_beta/3500001175_100X_20170811_1e-Scene-06-P16-E05.czi,6,5,Sec61 beta,e
+data/sec61_beta/3500001205_100X_20170818_2e-Scene-2-P13-E08.czi,6,5,Sec61 beta,e
+data/tom20/3500000959_100X_20170609_7-Scene-07-P37-E07.czi,6,5,Tom20,
+data/tom20/3500001005_100X_20170623_2-Scene-14-P32-F08.czi,6,5,Tom20,
+data/tom20/3500000981_100X_20170616_2-Scene-22-P53-F07.czi,6,5,Tom20,
+data/tom20/3500000980_100X_20170616_7-Scene-7-P40-E07.czi,6,5,Tom20,
+data/tom20/3500000972_100X_20170614_2-Scene-1-P7-E05.czi,6,5,Tom20,
+data/tom20/3500000964_100X_20170612_3-Scene-2-P12-E05.czi,6,5,Tom20,
+data/tom20/3500000982_100X_20170620_3-Scene-01-P21-E06.czi,6,5,Tom20,
+data/tom20/3500000982_100X_20170620_3-Scene-04-P24-E06.czi,6,5,Tom20,
+data/tom20/3500000961_100X_20170609_3-Scene-08-P60-F07.czi,6,5,Tom20,
+data/tom20/3500000986_100X_20170620_2-Scene-1-P8-E04.czi,6,5,Tom20,
+data/tom20/3500001057_100X_20170712_c1-Scene-03-P9-E05.czi,6,5,Tom20,
+data/tom20/3500000961_100X_20170609_1-Scene-15-P15-E06.czi,6,5,Tom20,
+data/tom20/3500000968_100X_20170612_1-Scene-28-P28-E06.czi,6,5,Tom20,
+data/tom20/3500000997_100X_20170621_1-Scene-09-P9-E04.czi,6,5,Tom20,
+data/tom20/3500000986_100X_20170620_7-Scene-1-P36-E07.czi,6,5,Tom20,
+data/tom20/3500000982_100X_20170620_5-Scene-2-P42-E08.czi,6,5,Tom20,
+data/tom20/3500000997_100X_20170621_3-Scene-03-P23-E06.czi,6,5,Tom20,
+data/tom20/3500001012_100X_20170627_4-Scene-01-P31-F04.czi,6,5,Tom20,
+data/tom20/3500000968_100X_20170612_2-Scene-09-P37-E08.czi,6,5,Tom20,
+data/tom20/3500001034_100X_20170705_1c-Scene-3-P3-E04.czi,6,5,Tom20,
+data/tom20/3500000981_100X_20170616_2-Scene-20-P51-F07.czi,6,5,Tom20,
+data/tom20/3500000997_100X_20170621_1-Scene-05-P5-E04.czi,6,5,Tom20,
+data/tom20/3500000969_100X_20170613_1-Scene-14-P14-E06.czi,6,5,Tom20,
+data/tom20/3500000959_100X_20170609_7-Scene-01-P31-E07.czi,6,5,Tom20,
+data/tom20/3500001009_100X_20170627_6-Scene-2-P44-F06.czi,6,5,Tom20,
+data/tom20/3500001003_100X_20170623_1-Scene-19-P22-F06.czi,6,5,Tom20,
+data/tom20/3500000969_100X_20170613_6-Scene-01-P51-F06.czi,6,5,Tom20,
+data/tom20/3500000981_100X_20170616_1-Scene-05-P5-E04.czi,6,5,Tom20,
+data/tom20/3500001066_100X_20170712_2c-Scene-2-P24-E08.czi,6,5,Tom20,
+data/tom20/3500000976_100X_20170613_3-Scene-09-P30-F05.czi,6,5,Tom20,
+data/tom20/3500000961_100X_20170609_1-Scene-19-P19-E06.czi,6,5,Tom20,
+data/tom20/3500000981_100X_20170616_2-Scene-26-P57-F08.czi,6,5,Tom20,
+data/tom20/3500000969_100X_20170613_1-Scene-07-P7-E04.czi,6,5,Tom20,
+data/tom20/3500000971_100X_20170614_3-Scene-03-P33-F04.czi,6,5,Tom20,
+data/tom20/3500000986_100X_20170620_6-Scene-5-P35-E07.czi,6,5,Tom20,
+data/tom20/3500000997_100X_20170621_6-Scene-01-P41-E08.czi,6,5,Tom20,
+data/tom20/3500001012_100X_20170627_3-Scene-09-P21-E07.czi,6,5,Tom20,
+data/tom20/3500000961_100X_20170609_1-Scene-01-P1-E04.czi,6,5,Tom20,
+data/tom20/3500000976_100X_20170613_3-Scene-21-P42-F08.czi,6,5,Tom20,
+data/tom20/3500000968_100X_20170612_2-Scene-26-P55-F07.czi,6,5,Tom20,
+data/tom20/3500000997_100X_20170621_5-Scene-2-P40-E07.czi,6,5,Tom20,
+data/tom20/3500000973_100X_20170614_2-Scene-06-P24-E07.czi,6,5,Tom20,
+data/tom20/3500000969_100X_20170613_2-Scene-09-P28-E08.czi,6,5,Tom20,
+data/tom20/3500000973_100X_20170614_2-Scene-03-P21-E07.czi,6,5,Tom20,
+data/tom20/3500000972_100X_20170614_1-Scene-2-P2-E04.czi,6,5,Tom20,
+data/tom20/3500001005_100X_20170623_2-Scene-06-P24-E08.czi,6,5,Tom20,
+data/tom20/3500001016_100X_20170628_3-Scene-2-P8-E05.czi,6,5,Tom20,
+data/tom20/3500000961_100X_20170609_2-Scene-09-P30-E07.czi,6,5,Tom20,
+data/tom20/3500001003_100X_20170623_1-Scene-08-P10-F05.czi,6,5,Tom20,
+data/tom20/3500001012_100X_20170627_4-Scene-03-P33-F04.czi,6,5,Tom20,
+data/tom20/3500001066_100X_20170712_2r-Scene-2-P23-E08.czi,6,5,Tom20,r
+data/tom20/3500001066_100X_20170712_2r-Scene-3-P26-E08.czi,6,5,Tom20,r
+data/tom20/3500001034_100X_20170705_4r-Scene-3-P20-F04.czi,6,5,Tom20,r
+data/tom20/3500001066_100X_20170712_1r-Scene-2-P5-E05.czi,6,5,Tom20,r
+data/tom20/3500001034_100X_20170705_4r-Scene-2-P19-F04.czi,6,5,Tom20,r
+data/tom20/3500001034_100X_20170705_4r-Scene-1-P18-F04.czi,6,5,Tom20,r
+data/tom20/3500001057_100X_20170712_r1-Scene-06-P17-E06.czi,6,5,Tom20,r
+data/tom20/3500001066_100X_20170712_2r-Scene-6-P35-F05.czi,6,5,Tom20,r
+data/tom20/3500001057_100X_20170712_r1-Scene-05-P14-E06.czi,6,5,Tom20,r
+data/tom20/3500001066_100X_20170712_1r-Scene-3-P8-E05.czi,6,5,Tom20,r
+data/tom20/3500001066_100X_20170712_2r-Scene-1-P20-E08.czi,6,5,Tom20,r
+data/tom20/3500001057_100X_20170712_r1-Scene-10-P29-E08.czi,6,5,Tom20,r
+data/tom20/3500001034_100X_20170705_3r-Scene-2-P15-E06.czi,6,5,Tom20,r
+data/tom20/3500001066_100X_20170712_1r-Scene-1-P2-E05.czi,6,5,Tom20,r
+data/tom20/3500001034_100X_20170705_1r-Scene-2-P2-E04.czi,6,5,Tom20,r
+data/tom20/3500001034_100X_20170705_4e-Scene-3-P20-F04.czi,6,5,Tom20,e
+data/tom20/3500001034_100X_20170705_5e-Scene-3-P43-F08.czi,6,5,Tom20,e
+data/tom20/3500001057_100X_20170712_e1-Scene-07-P19-E07.czi,6,5,Tom20,e
+data/tom20/3500001034_100X_20170705_3e-Scene-1-P12-E06.czi,6,5,Tom20,e
+data/tom20/3500001057_100X_20170712_e1-Scene-06-P16-E06.czi,6,5,Tom20,e
+data/tom20/3500001034_100X_20170705_2e-Scene-2-P10-E05.czi,6,5,Tom20,e
+data/tom20/3500001034_100X_20170705_5e-Scene-2-P42-F08.czi,6,5,Tom20,e
+data/tom20/3500001034_100X_20170705_3e-Scene-2-P15-E06.czi,6,5,Tom20,e
+data/tom20/3500001066_100X_20170712_2e-Scene-6-P34-F05.czi,6,5,Tom20,e
+data/tom20/3500001034_100X_20170705_5e-Scene-1-P38-F08.czi,6,5,Tom20,e
+data/tom20/3500001057_100X_20170712_e1-Scene-08-P22-E07.czi,6,5,Tom20,e
+data/tom20/3500001066_100X_20170712_1e-3-Scene-1-P16-E07.czi,6,5,Tom20,e
+data/tom20/3500001057_100X_20170712_e1-Scene-04-P10-E05.czi,6,5,Tom20,e
+data/tom20/3500001066_100X_20170712_1e-2-Scene-1-P4-E05.czi,6,5,Tom20,e
+data/tom20/3500001034_100X_20170705_1e-Scene-2-P2-E04.czi,6,5,Tom20,e
+data/zo1/3500001354_100X_20171002_5-Scene-04-P28-E06.czi,6,5,ZO1,
+data/zo1/3500001327_100X_20170926_1-Scene-6-P6-E04.czi,6,5,ZO1,
+data/zo1/3500001411_10X_20171016_1-Scene-12-P36-F08.czi,6,5,ZO1,
+data/zo1/3500001410_100X_20171016_7-Scene-08-P30-F08.czi,6,5,ZO1,
+data/zo1/3500001380_100X_20171009_5-Scene-01-P3-E04.czi,6,5,ZO1,
+data/zo1/3500001360_100X_20171002_1-Scene-06-P6-E04.czi,6,5,ZO1,
+data/zo1/3500001354_100X_20171002_6-Scene-12-P50-E08.czi,6,5,ZO1,
+data/zo1/3500001354_100X_20171002_4-Scene-5-P23-E06.czi,6,5,ZO1,
+data/zo1/3500001358_100X_20171002_1-Scene-08-P9-E06.czi,6,5,ZO1,
+data/zo1/3500001360_100X_20171002_1-Scene-03-P3-E04.czi,6,5,ZO1,
+data/zo1/3500001327_100X_20170926_2-Scene-6-P13-E05.czi,6,5,ZO1,
+data/zo1/3500001359_100X_20171002_2-Scene-04-P11-E05.czi,6,5,ZO1,
+data/zo1/3500001379_100X_20171009_4-Scene-03-P9-E04.czi,6,5,ZO1,
+data/zo1/3500001354_100X_20171002_6-Scene-06-P44-E08.czi,6,5,ZO1,
+data/zo1/3500001327_100X_20170926_4-Scene-16-P45-E08.czi,6,5,ZO1,
+data/zo1/3500001379_100X_20171009_4-Scene-13-P39-E07.czi,6,5,ZO1,
+data/zo1/3500001354_100X_20171002_5-Scene-12-P36-E07.czi,6,5,ZO1,
+data/zo1/3500001354_100X_20171002_6-Scene-13-P51-F04.czi,6,5,ZO1,
+data/zo1/3500001360_100X_20171002_2-Scene-10-P30-E07.czi,6,5,ZO1,
+data/zo1/3500001354_100X_20171002_1-Scene-4-P4-E04.czi,6,5,ZO1,
+data/zo1/3500001328_100X_20170926_3-Scene-4-P20-E07.czi,6,5,ZO1,
+data/zo1/3500001354_100X_20171002_4-Scene-4-P22-E06.czi,6,5,ZO1,
+data/zo1/3500001328_100X_20170926_1-Scene-05-P5-E04.czi,6,5,ZO1,
+data/zo1/3500001379_100X_20171009_4-Scene-14-P42-E07.czi,6,5,ZO1,
+data/zo1/3500001327_100X_20170926_3-Scene-13-P28-E06.czi,6,5,ZO1,
+data/zo1/3500001380_100X_20171009_5-Scene-14-P42-F06.czi,6,5,ZO1,
+data/zo1/3500001354_100X_20171002_5-Scene-14-P38-E07.czi,6,5,ZO1,
+data/zo1/3500001359_100X_20171002_2-Scene-05-P12-E05.czi,6,5,ZO1,
+data/zo1/3500001411_10X_20171016_1-Scene-05-P15-E08.czi,6,5,ZO1,
+data/zo1/3500001358_100X_20171002_2-Scene-08-P38-F05.czi,6,5,ZO1,
+data/zo1/3500001359_100X_20171002_3-Scene-06-P24-E06.czi,6,5,ZO1,
+data/zo1/3500001360_100X_20171002_2-Scene-06-P26-E07.czi,6,5,ZO1,
+data/zo1/3500001380_100X_20171009_5-Scene-08-P24-E06.czi,6,5,ZO1,
+data/zo1/3500001358_100X_20171002_1-Scene-21-P23-E08.czi,6,5,ZO1,
+data/zo1/3500001327_100X_20170926_1-Scene-2-P2-E04.czi,6,5,ZO1,
+data/zo1/3500001327_100X_20170926_4-Scene-02-P31-E07.czi,6,5,ZO1,
+data/zo1/3500001328_100X_20170926_5-Scene-6-P39-F05.czi,6,5,ZO1,
+data/zo1/3500001358_100X_20171002_1-Scene-24-P26-F04.czi,6,5,ZO1,
+data/zo1/3500001354_100X_20171002_2-Scene-02-P6-E04.czi,6,5,ZO1,
+data/zo1/3500001327_100X_20170926_1-Scene-4-P4-E04.czi,6,5,ZO1,
+data/zo1/3500001358_100X_20171002_2-Scene-07-P37-F05.czi,6,5,ZO1,
+data/zo1/3500001360_100X_20171002_1-Scene-17-P17-E05.czi,6,5,ZO1,
+data/zo1/3500001359_100X_20171002_2-Scene-06-P13-E05.czi,6,5,ZO1,
+data/zo1/3500001328_100X_20170926_4-Scene-09-P33-F04.czi,6,5,ZO1,
+data/zo1/3500001409_100X_20171016_3-Scene-1-P29-F05.czi,6,5,ZO1,
+data/zo1/3500001328_100X_20170926_2-Scene-5-P14-E06.czi,6,5,ZO1,
+data/zo1/3500001360_100X_20171002_1-Scene-05-P5-E04.czi,6,5,ZO1,
+data/zo1/3500001359_100X_20171002_1-Scene-7-P7-E04.czi,6,5,ZO1,
+data/zo1/3500001379_100X_20171009_4-Scene-06-P18-E05.czi,6,5,ZO1,
+data/zo1/3500001328_100X_20170926_1-Scene-01-P1-E04.czi,6,5,ZO1,
+data/zo1/3500001464_100X_20171024_4r-Scene-1-P23-E06.czi,6,5,ZO1,r
+data/zo1/3500001464_100X_20171024_4r-Scene-5-P35-E07.czi,6,5,ZO1,r
+data/zo1/3500001379_100X_20171009_3r-Scene-03-P8-E04.czi,6,5,ZO1,r
+data/zo1/3500001464_100X_20171024_4r-Scene-2-P26-E06.czi,6,5,ZO1,r
+data/zo1/3500001410_100X_20171016_4r-Scene-2-P5-E08.czi,6,5,ZO1,r
+data/zo1/3500001410_100X_20171016_4r-Scene-4-P11-F05.czi,6,5,ZO1,r
+data/zo1/3500001379_100X_20171009_3r-Scene-01-P2-E04.czi,6,5,ZO1,r
+data/zo1/3500001411_10X_20171016_1r-Scene-02-P5-E04.czi,6,5,ZO1,r
+data/zo1/3500001380_100X_20171009_4r-Scene-02-P20-E05.czi,6,5,ZO1,r
+data/zo1/3500001380_100X_20171009_4r-Scene-09-P41-F06.czi,6,5,ZO1,r
+data/zo1/3500001409_100X_20171016_2r-Scene-01-P2-E04.czi,6,5,ZO1,r
+data/zo1/3500001410_100X_20171016_5r-Scene-7-P32-F08.czi,6,5,ZO1,r
+data/zo1/3500001379_100X_20171009_3r-Scene-13-P38-E07.czi,6,5,ZO1,r
+data/zo1/3500001379_100X_20171009_3r-Scene-04-P11-E05.czi,6,5,ZO1,r
+data/zo1/3500001411_10X_20171016_1r-Scene-08-P23-F04.czi,6,5,ZO1,r
+data/zo1/3500001380_100X_20171009_1e-Scene-03-P7-E04.czi,6,5,ZO1,e
+data/zo1/3500001409_100X_20171016_1e-Scene-04-P10-E06.czi,6,5,ZO1,e
+data/zo1/3500001410_100X_20171016_3e-Scene-5-P34-F08.czi,6,5,ZO1,e
+data/zo1/3500001379_100X_20171009_2e-Scene-1-P34-E07.czi,6,5,ZO1,e
+data/zo1/3500001380_100X_20171009_2e-Scene-5-P52-F07.czi,6,5,ZO1,e
+data/zo1/3500001380_100X_20171009_2e-Scene-7-P58-F08.czi,6,5,ZO1,e
+data/zo1/3500001380_100X_20171009_2e-Scene-4-P49-F07.czi,6,5,ZO1,e
+data/zo1/3500001380_100X_20171009_1e-Scene-06-P16-E05.czi,6,5,ZO1,e
+data/zo1/3500001380_100X_20171009_2e-Scene-3-P46-F06.czi,6,5,ZO1,e
+data/zo1/3500001464_100X_20171024_2e-Scene-3-P28-E07.czi,6,5,ZO1,e
+data/zo1/3500001464_100X_20171024_6e-Scene-1-P37-E08.czi,6,5,ZO1,e
+data/zo1/3500001411_10X_20171016_1e-Scene-07-P19-F04.czi,6,5,ZO1,e
+data/zo1/3500001409_100X_20171016_1e-Scene-05-P13-E06.czi,6,5,ZO1,e
+data/zo1/3500001464_100X_20171024_1e-Scene-3-P7-E04.czi,6,5,ZO1,e
+data/zo1/3500001380_100X_20171009_2e-Scene-6-P55-F07.czi,6,5,ZO1,e
+data/myosin_iib/3500001319_100X_20170922_2-Scene-17-P47-E08.czi,6,5,myosin iib,
+data/myosin_iib/3500001344_100X_20170926_2-Scene-15-P35-E07.czi,6,5,myosin iib,
+data/myosin_iib/3500001319_100X_20170922_1-Scene-22-P22-E06.czi,6,5,myosin iib,
+data/myosin_iib/3500001321_100X_20170922_2-Scene-20-P30-E08.czi,6,5,myosin iib,
+data/myosin_iib/3500001422_100X_20171017_1-Scene-15-P45-F07.czi,6,5,myosin iib,
+data/myosin_iib/3500001321_100X_20170922_2-Scene-08-P18-E06.czi,6,5,myosin iib,
+data/myosin_iib/3500001395_100X_20171010_1-Scene-17-P54-F06.czi,6,5,myosin iib,
+data/myosin_iib/3500001320_100X_20170922_1-Scene-05-P5-E04.czi,6,5,myosin iib,
+data/myosin_iib/3500001320_100X_20170922_3-Scene-03-P38-E07.czi,6,5,myosin iib,
+data/myosin_iib/3500001321_100X_20170922_2-Scene-05-P15-E06.czi,6,5,myosin iib,
+data/myosin_iib/3500001344_100X_20170926_1-Scene-04-P4-E04.czi,6,5,myosin iib,
+data/myosin_iib/3500001336_100X_20170925_3-Scene-14-P42-E08.czi,6,5,myosin iib,
+data/myosin_iib/3500001336_100X_20170925_2-Scene-09-P23-E06.czi,6,5,myosin iib,
+data/myosin_iib/3500001319_100X_20170922_2-Scene-24-P54-F04.czi,6,5,myosin iib,
+data/myosin_iib/3500001336_100X_20170925_3-Scene-06-P34-E07.czi,6,5,myosin iib,
+data/myosin_iib/3500001346_100X_20170926_1-Scene-05-P14-E06.czi,6,5,myosin iib,
+data/myosin_iib/3500001395_100X_20171010_1-Scene-02-P6-E04.czi,6,5,myosin iib,
+data/myosin_iib/3500001345_100X_20170926_4-Scene-10-P34-F04.czi,6,5,myosin iib,
+data/myosin_iib/3500001449_100X_20171023_3-Scene-11-P30-E08.czi,6,5,myosin iib,
+data/myosin_iib/3500001395_100X_20171010_1-Scene-01-P3-E04.czi,6,5,myosin iib,
+data/myosin_iib/3500001344_100X_20170926_1-Scene-02-P2-E04.czi,6,5,myosin iib,
+data/myosin_iib/3500001336_100X_20170925_2-Scene-03-P17-E05.czi,6,5,myosin iib,
+data/myosin_iib/3500001371_100X_20171006_1-Scene-02-P2-E04.czi,6,5,myosin iib,
+data/myosin_iib/3500001344_100X_20170926_1-Scene-14-P14-E05.czi,6,5,myosin iib,
+data/myosin_iib/3500001371_100X_20171006_3-Scene-02-P22-E06.czi,6,5,myosin iib,
+data/myosin_iib/3500001320_100X_20170922_1-Scene-19-P19-E05.czi,6,5,myosin iib,
+data/myosin_iib/3500001345_100X_20170926_1-Scene-1-P1-E04.czi,6,5,myosin iib,
+data/myosin_iib/3500001344_100X_20170926_1-Scene-05-P5-E04.czi,6,5,myosin iib,
+data/myosin_iib/3500001320_100X_20170922_1-Scene-02-P2-E04.czi,6,5,myosin iib,
+data/myosin_iib/3500001345_100X_20170926_4-Scene-13-P37-F05.czi,6,5,myosin iib,
+data/myosin_iib/3500001321_100X_20170922_3-Scene-03-P33-E08.czi,6,5,myosin iib,
+data/myosin_iib/3500001371_100X_20171006_1-Scene-05-P5-E04.czi,6,5,myosin iib,
+data/myosin_iib/3500001344_100X_20170926_1-Scene-17-P17-E05.czi,6,5,myosin iib,
+data/myosin_iib/3500001345_100X_20170926_3-Scene-09-P19-E07.czi,6,5,myosin iib,
+data/myosin_iib/3500001320_100X_20170922_1-Scene-07-P7-E04.czi,6,5,myosin iib,
+data/myosin_iib/3500001395_100X_20171010_1-Scene-12-P39-F04.czi,6,5,myosin iib,
+data/myosin_iib/3500001371_100X_20171006_3-Scene-04-P24-E06.czi,6,5,myosin iib,
+data/myosin_iib/3500001321_100X_20170922_2-Scene-02-P12-E05.czi,6,5,myosin iib,
+data/myosin_iib/3500001371_100X_20171006_1-Scene-07-P7-E04.czi,6,5,myosin iib,
+data/myosin_iib/3500001319_100X_20170922_1-Scene-19-P19-E05.czi,6,5,myosin iib,
+data/myosin_iib/3500001346_100X_20170926_2-Scene-07-P28-F04.czi,6,5,myosin iib,
+data/myosin_iib/3500001319_100X_20170922_2-Scene-16-P46-E08.czi,6,5,myosin iib,
+data/myosin_iib/3500001346_100X_20170926_1-Scene-10-P19-E06.czi,6,5,myosin iib,
+data/myosin_iib/3500001319_100X_20170922_2-Scene-18-P48-E08.czi,6,5,myosin iib,
+data/myosin_iib/3500001394_100X_20171010_1-Scene-04-P6-E04.czi,6,5,myosin iib,
+data/myosin_iib/3500001319_100X_20170922_1-Scene-18-P18-E05.czi,6,5,myosin iib,
+data/myosin_iib/3500001320_100X_20170922_3-Scene-02-P37-E07.czi,6,5,myosin iib,
+data/myosin_iib/3500001321_100X_20170922_3-Scene-25-P55-F07.czi,6,5,myosin iib,
+data/myosin_iib/3500001371_100X_20171006_4-Scene-05-P35-E07.czi,6,5,myosin iib,
+data/myosin_iib/3500001346_100X_20170926_2-Scene-16-P38-F06.czi,6,5,myosin iib,
+data/myosin_iib/3500001395_100X_20171010_2r-Scene-05-P38-F04.czi,6,5,myosin iib,r
+data/myosin_iib/3500001395_100X_20171010_2r-Scene-07-P44-F05.czi,6,5,myosin iib,r
+data/myosin_iib/3500001395_100X_20171010_1r-Scene-3-P8-E04.czi,6,5,myosin iib,r
+data/myosin_iib/3500001430_100X_20171020_1r-Scene-01-P2-E06.czi,6,5,myosin iib,r
+data/myosin_iib/3500001422_100X_20171017_1r-Scene-15-P44-F07.czi,6,5,myosin iib,r
+data/myosin_iib/3500001396_100X_20171010_2r-Scene-1-P47-F08.czi,6,5,myosin iib,r
+data/myosin_iib/3500001449_100X_20171023_2r-Scene-15-P44-F04.czi,6,5,myosin iib,r
+data/myosin_iib/3500001394_100X_20171010_2r-Scene-3-P40-F05.czi,6,5,myosin iib,r
+data/myosin_iib/3500001422_100X_20171017_1r-Scene-08-P23-E08.czi,6,5,myosin iib,r
+data/myosin_iib/3500001395_100X_20171010_2r-Scene-08-P47-F05.czi,6,5,myosin iib,r
+data/myosin_iib/3500001394_100X_20171010_1r-Scene-01-P4-E04.czi,6,5,myosin iib,r
+data/myosin_iib/3500001394_100X_20171010_2r-Scene-2-P37-F05.czi,6,5,myosin iib,r
+data/myosin_iib/3500001395_100X_20171010_2r-Scene-03-P32-E08.czi,6,5,myosin iib,r
+data/myosin_iib/3500001449_100X_20171023_2r-Scene-10-P29-E08.czi,6,5,myosin iib,r
+data/myosin_iib/3500001430_100X_20171020_1r-Scene-11-P62-F04.czi,6,5,myosin iib,r
+data/myosin_iib/3500001395_100X_20171010_1e-Scene-14-P40-F04.czi,6,5,myosin iib,e
+data/myosin_iib/3500001449_100X_20171023_1e-Scene-04-P10-E05.czi,6,5,myosin iib,e
+data/myosin_iib/3500001449_100X_20171023_1e-Scene-08-P22-E07.czi,6,5,myosin iib,e
+data/myosin_iib/3500001449_100X_20171023_1e-Scene-11-P31-E08.czi,6,5,myosin iib,e
+data/myosin_iib/3500001395_100X_20171010_1e-Scene-17-P49-F06.czi,6,5,myosin iib,e
+data/myosin_iib/3500001394_100X_20171010_1e-Scene-10-P32-F04.czi,6,5,myosin iib,e
+data/myosin_iib/3500001396_100X_20171010_2e-Scene-1-P31-F06.czi,6,5,myosin iib,e
+data/myosin_iib/3500001430_100X_20171020_1e-Scene-10-P58-F04.czi,6,5,myosin iib,e
+data/myosin_iib/3500001394_100X_20171010_2e-Scene-3-P41-F05.czi,6,5,myosin iib,e
+data/myosin_iib/3500001395_100X_20171010_1e-Scene-02-P4-E04.czi,6,5,myosin iib,e
+data/myosin_iib/3500001396_100X_20171010_1e-Scene-05-P13-F04.czi,6,5,myosin iib,e
+data/myosin_iib/3500001395_100X_20171010_1e-Scene-15-P43-F05.czi,6,5,myosin iib,e
+data/myosin_iib/3500001394_100X_20171010_1e-Scene-08-P26-E08.czi,6,5,myosin iib,e
+data/myosin_iib/3500001394_100X_20171010_1e-Scene-06-P20-E08.czi,6,5,myosin iib,e
+data/myosin_iib/3500001396_100X_20171010_2e-Scene-3-P37-F07.czi,6,5,myosin iib,e

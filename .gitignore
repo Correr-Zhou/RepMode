@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+data/*/
+!data/csvs/
+data/csvs/*/
+wandb/
+.vscode/
+exps/
+resources/
+backup/
