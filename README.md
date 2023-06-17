@@ -119,11 +119,13 @@ If you would like to customize this code, check out `scripts\`, `main.py`, `eval
 ## 📑 Citation
 If you find that our work is helpful in your research, please consider citing our paper:
 ```latex
-@misc{zhou2022repmode,
-      title={RepMode: Learning to Re-parameterize Diverse Experts for Subcellular Structure Prediction},
-      author={Zhou, Donghao and Gu, Chunbin and Xu, Junde and Liu, Furui and Wang, Qiong and Chen, Guangyong and Heng, Pheng-Ann},
-      journal={arXiv preprint arXiv:2212.10066},
-      year={2022}
+@InProceedings{Zhou_2023_CVPR,
+    author    = {Zhou, Donghao and Gu, Chunbin and Xu, Junde and Liu, Furui and Wang, Qiong and Chen, Guangyong and Heng, Pheng-Ann},
+    title     = {RepMode: Learning to Re-Parameterize Diverse Experts for Subcellular Structure Prediction},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {3312-3322}
 }
 ```
 
