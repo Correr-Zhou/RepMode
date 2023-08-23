@@ -133,4 +133,4 @@ If you find that our work is helpful in your research, please consider citing ou
 Feel free to contact me (Donghao Zhou: [dh.zhou@siat.ac.cn](mailto:dh.zhou@siat.ac.cn)) if anything is unclear or you are interested in potential collaboration.
 
 ## 🤝 Acknowledgement
-Our code is built upon the repository of [pytorch_fnet](https://github.com/AllenCellModeling/pytorch_fnet/). We would like to thank its authors for their excellent work. If you want to use and redistribe our code, please follow [this license](https://github.com/Correr-Zhou/RepMode/blob/LICENSE) as well.
+Our code is built upon the repository of [pytorch_fnet](https://github.com/AllenCellModeling/pytorch_fnet/). We would like to thank its authors for their excellent work. If you want to use and redistribe our code, please follow [this license](https://github.com/Correr-Zhou/RepMode/blob/main/LICENSE) as well.
