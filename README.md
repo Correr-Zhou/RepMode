@@ -24,10 +24,11 @@ We introduce **subcellular structure prediction (SSP)**, which aims to predict t
 
 
 ## 🔥 Updates
+- 2023.09: We release the download link of the formatted data for your convenience!
 - 2023.04: The source code is now available!
 - 2023.03: The [RepMode website](https://correr-zhou.github.io/RepMode/) is now online!
-- 2023.03: This paper is selected as a **CVPR Highlight (Top 2.5% of 9155 submissions)**!
-- 2023.02: We are delight to announce that this paper is accepted by CVPR 2023!
+- 2023.03: This paper is selected as a **CVPR Highlight (Top 2.6% of 9155 submissions)**!
+- 2023.02: We are delighted to announce that this paper was accepted by CVPR 2023!
 
 
 ## 💻 Device Requirements
@@ -66,9 +67,8 @@ Download the dataset collection:
 ```
 bash scripts/dataset/download_all_data.sh
 ```
-
-### Spliting Data
-First, conduct train/val/test dataset spliting for eleven datasets:
+### Splitting Data
+First, conduct train/val/test dataset splitting for eleven datasets:
 ```
 bash scripts/dataset/split_train_set.sh
 bash scripts/dataset/split_val_set.sh
@@ -77,11 +77,11 @@ Then, construct the DNA dataset based on the existing eleven datasets:
 ```
 bash scripts/dataset/make_dna_dataset.sh
 ```
-> ❗❗❗ Notably, each transmitted-light image in this collection have an extra DNA annotation but there are not a specialized DNA dataset.
-> Therefore, the samples of the DNA dataset are collected from the other datasets.
+Each transmitted-light image in this collection has an extra DNA annotation but there is not a specialized DNA dataset.
+Therefore, the samples of the DNA dataset are collected from the other datasets.
 
 ### Integrating data
-The last step is to format these twelve datasets and integate them:
+The last step is to format these twelve datasets and integrate them:
 ```
 bash scripts/dataset/integ_dataset.sh
 ```
@@ -89,6 +89,8 @@ The above command would run `main.py` to process the data and finally generate t
 Besides, it can also check if the code is ready to run.
 At the beginning of training, the resultant `.pth` files will be directly loaded into RAM to accelerate the dataset loading during training.
 
+> ❗❗❗ You can directly download the formatted data (*i.e.* the `.pth` files) [here](https://1drv.ms/f/s!ArXcVhaRqzaZlo90CFbcJzvzu_izkw?e=Qo1ZeM) and move them to `{PATH-TO-THIS-CODE}/data/all_data`.
+> However, we still recommend conducting the above operations to obtain the original data.
 
 ## 🔬 Training and Evaluation
 
