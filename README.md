@@ -15,7 +15,7 @@
 </div>
 
 
-We introduce **subcellular structure prediction (SSP)**, which aims to predict the 3D fluorescent images of multiple subcellular structures from a 3D transmitted-light image, to the computer vision community. To overcome two crucial challenges of SSP, *i.e.* partial labeling and multi-scale, we propose **Re-parameterizing Mixture-of-Diverse-Experts (RepMode)**, a network that dynamically organizes its parameters with task-aware priors to handle specified single-label prediction tasks of SSP. RepMode acheives SOTA overall performance in SSP and show its potiental in task-increment learning.
+We introduce **subcellular structure prediction (SSP)**, which aims to predict the 3D fluorescent images of multiple subcellular structures from a 3D transmitted-light image, to the computer vision community. To overcome two crucial challenges of SSP, *i.e.* partial labeling and multi-scale, we propose **Re-parameterizing Mixture-of-Diverse-Experts (RepMode)**, a network that dynamically organizes its parameters with task-aware priors to handle specified single-label prediction tasks of SSP. RepMode achieves SOTA overall performance in SSP and show its potential in task-increment learning.
 
 
 <div align="center">
